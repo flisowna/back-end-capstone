@@ -19,7 +19,7 @@ with the user credentials used by registration, in the form:
 
 {
   "username": "user",
-  "password": "password",
+  "password": "password"
 }
 
 ### the API adresses to check:
